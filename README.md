@@ -29,7 +29,7 @@ An AI-powered chatbot that enables users to upload PDF documents or images, extr
 ### 1️⃣ Clone the repository  
 
 ```bash
-git clone https://github.com/your-username/ChatVision-PDFChatbot.git
+git clone https://github.com/Vedashree14/ChatVision-PDFChatbot.git
 cd ChatVision-PDFChatbot
 ```
 
